@@ -1,6 +1,6 @@
-site_name: "Мой кастомный сайт"
-site_description: "Пример статического сайта с кастомной темой"
-site_author: "Ваше Имя"
+site_name: "My site"
+site_description: "Cool site"
+site_author: "Stanislav"
 theme:
   name: null
   custom_dir: "theme"
