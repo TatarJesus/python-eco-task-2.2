@@ -1,0 +1,9 @@
+site_name: "Мой кастомный сайт"
+site_description: "Пример статического сайта с кастомной темой"
+site_author: "Ваше Имя"
+theme:
+  name: null
+  custom_dir: "theme"
+nav:
+  - Главная: index.md
+  - О проекте: about.md
