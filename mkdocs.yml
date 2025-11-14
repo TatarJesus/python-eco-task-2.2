@@ -1,9 +1,13 @@
-site_name: "My site"
-site_description: "Cool site"
-site_author: "Stanislav"
+site_name: Python Eco 2.2
+site_author: Stanislav
+site_description: desc
+
 theme:
   name: null
-  custom_dir: "theme"
+  custom_dir: theme/
+
 nav:
   - Главная: index.md
-  - О проекте: about.md
+
+watch:
+  - theme
